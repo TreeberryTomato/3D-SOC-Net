@@ -9,7 +9,7 @@ We use the ShapeNetCoreV1 dataset(https://www.shapenet.org/) in our experiments,
 Our prepared dataset is available in the following link:
 https://xmueducn-my.sharepoint.com/:f:/g/personal/dmt1809254_xmu_edu_my/Er7mpTrlB8xBjyKqtbtHQ9sBh_tkgv8ZYo6ayvdZJAQLbQ?e=RVaDQZ
 
-The dataset files should be put inside dataset_split folder
+For executing the project, only all the pkl files are needed. The pkl files should be put inside dataset_split folder.
 
 ## Pretrained Models
 
