@@ -4,16 +4,15 @@
 ![Overall Architecture](./img/Architecture.png)
 
 ## Datasets
-We use the ShapeNetCoreV1 dataset(https://www.shapenet.org/) in our experiments, the ShapeNet rendering images are from http://cvgl.stanford.edu/data2/ShapeNetRendering.tgz
+We use the [ShapeNetCoreV1 dataset](https://www.shapenet.org/) in our experiments, the ShapeNet rendering images are from http://cvgl.stanford.edu/data2/ShapeNetRendering.tgz
 
-Our prepared dataset is available in the following link:
-https://xmueducn-my.sharepoint.com/:f:/g/personal/dmt1809254_xmu_edu_my/Er7mpTrlB8xBjyKqtbtHQ9sBh_tkgv8ZYo6ayvdZJAQLbQ?e=RVaDQZ
+Our prepared dataset is available [here](https://xmueducn-my.sharepoint.com/:f:/g/personal/dmt1809254_xmu_edu_my/EvWZ-eu9RbJJothbOV1C8uQBOCCjTY5_awhV0ubt0HtrJw?e=WyTEeg)
 
 For executing the project, only all the pkl files are needed. The pkl files should be put inside dataset_split folder.
 
 ## Pretrained Models
 
-The pretrained models on ShapeNet are available in the following link: https://xmueducn-my.sharepoint.com/:f:/g/personal/dmt1809254_xmu_edu_my/EgBCkDNkVhlMtJqZ_DvExW8Bu9DTOJ8ZzYTVi9avn-mV9g?e=7uJO6h
+The pretrained models on ShapeNet are available [here](https://xmueducn-my.sharepoint.com/:f:/g/personal/dmt1809254_xmu_edu_my/EgBCkDNkVhlMtJqZ_DvExW8Bu9DTOJ8ZzYTVi9avn-mV9g?e=4dnhmM). Stored in the corresponding output/best folder.
 
 ## Executing Environment
 The code has been tested on Windows 10, Python 3.7.9, PyTorch 1.8.0, CUDA 10.2
